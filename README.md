@@ -1,11 +1,7 @@
-Hello everyone, this is my first repository.
+Hello Everyone, This is my Repository Throughout my life.
 
-I want to change my readme, this is my change.
-This is my second change.
-This is my third change.
+The content is from my collage study and some of my own project.
 
-hello
+I'm, a novice regarding of coding world but i will keep my best at it.
 
-fitur ditambahkan di github
-
-hehe tambah fitur baru
+And if i'm wrong just say it, because we are all learn programming language.
