@@ -12,5 +12,8 @@ public class ifCetakKRS19{
             System.out.println("Pembayaran UKT terverivikasi");
             System.out.println("Silahkan cetak KRS dan minta tanda tangan PDA");
         }
+        else{
+            System.out.println("Registrasi ditolak. Silahkan lunasi UKT terlebih dahulu.");
+        }
     }
 }
