@@ -8,7 +8,6 @@ public class Triangle19 {
 
         System.out.print("Masukkan nilai n = ");
         int n = input.nextInt();
-
         int i = 1;
         while (i <= n) {
             int j = 0;
